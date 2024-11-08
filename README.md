@@ -19,3 +19,7 @@ quantitatively reason with them.
 Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 might help with the notation for mathematical expressions.
+
+the choice of a pivot in the array if its unsorted and random gives an equal chance reguardless of what selection method you use 
+since your only picking based on a select slot without knowing the range of the numbers. So run time would be roughly equal reguardless
+of how a pivot is chosen.
